@@ -1,0 +1,13 @@
+{
+    "name": "abunayem119/crud-2",
+    "description": "This is crud project",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        }
+    }
+}
